@@ -82,19 +82,20 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.phrases_list_wid.clear()
         self.object_type_select.clear()
         self.phrases_config = {}
+        #print('1')
         if self.last_call_id:
+            #print('1')
             dump = self.db.find_one({'call_id': self.last_call_id})
             if dump:
-                self.dump_name_lbl.setText(dump)
+                self.dump_name_lbl.setText(dump['call_id'])
                 #print(dump)
-                with open(os.path.join(self.path, dump)) as f:
-                    dialogue = json.loads(f.read())
-                    for transaction in dialogue['history'][::-1]:
-                        self.phrases_list_wid.addItem('Вы: ' + transaction['request']['text'])
-                        try:
-                            self.phrases_list_wid.addItem('--- ' + transaction['directives'][0]['payload']['text'])
-                        except:
-                            pass
+                for transaction in dump['dialog']['history'][::-1]:
+                    #print(transaction['request']['text'])
+                    self.phrases_list_wid.addItem('Вы: ' + transaction['request']['text'])
+                    try:
+                        self.phrases_list_wid.addItem('--- ' + transaction['directives'][0]['payload']['text'])
+                    except:
+                        pass
             else:
                 self.dump_name_lbl.setText('')
         else:
@@ -111,9 +112,9 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.phrases_list_wid.clear()
         self.object_type_select.clear()
         self.phrases_config = {}
-        dump = self.db.find_one({'processed': False, 'incorrect_dialog': True})
+        dump = self.db.find_one({'processed': False, 'incorrect_dialog': False})
         if dump:
-            if self.current_call_id:
+            if self.current_call_id and self.current_call_id != dump['call_id']:
                 self.last_call_id = self.current_call_id
             self.current_call_id = dump['call_id']
             self.dump_name_lbl.setText(dump['call_id'])
