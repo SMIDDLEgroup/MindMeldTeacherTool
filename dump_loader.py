@@ -87,6 +87,8 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
             #print('1')
             dump = self.db.find_one({'call_id': self.last_call_id})
             if dump:
+                self.current_call_id = self.last_call_id
+                self.last_call_id = None
                 self.dump_name_lbl.setText(dump['call_id'])
                 #print(dump)
                 for transaction in dump['dialog']['history'][::-1]:
@@ -394,6 +396,7 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
                 continue
             #config['saved'] = True
             self.write_phrase_to_file(config)
+        self.db.update_one({'call_id': self.current_call_id}, {"$set": {'processed': True}}, upsert=False)
         self.phrases_config = {}
 
     def clear_phrase(self, phrase):
