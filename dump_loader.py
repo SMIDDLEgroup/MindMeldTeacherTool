@@ -114,7 +114,7 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.phrases_list_wid.clear()
         self.object_type_select.clear()
         self.phrases_config = {}
-        dump = self.db.find_one({'processed': False, 'incorrect_dialog': False})
+        dump = self.db.find_one({'processed': False, 'incorrect_dialog': True})
         if dump:
             if self.current_call_id and self.current_call_id != dump['call_id']:
                 self.last_call_id = self.current_call_id
