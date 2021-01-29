@@ -15,7 +15,7 @@ class Loader(QtWidgets.QMainWindow, design.Ui_MainWindow):
         # Это здесь нужно для доступа к переменным, методам
         # и т.д. в файле design.py
         super().__init__()
-        self.db = pymongo.MongoClient('mongodb://developer:Smidle098adm!@sm-dev-svb.smiddle.lab:27017')['devsvb']['nluSmiddle']
+        self.db = pymongo.MongoClient('mongodb://developer:Smidle098adm!@sm-qa-svb.smiddle.lab:27017')['qasvb']['nluSmiddle']
         #print(self.db.find_one({'call_id': "ac22767c-4632-49fb-925a-b8be398ad7cf"}))
         self.dialogues_checked = []
         self.setupUi(self)
