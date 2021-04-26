@@ -1,0 +1,11 @@
+на {завтрашній|sys_time|day}день
+на {сьогоднішній|sys_time|day}день
+на {вчорашній|sys_time|day}день
+{23 жовтня|sys_time|day}
+{4 серпня|sys_time|day}
+у {9 лютого|sys_time|day}
+у {30 листопада|sys_time|day}
+на {16 січня|sys_time|day}
+на {29 вересня|sys_time|day}
+в {четвер|sys_time|day}
+в {неділю|sys_time|day}

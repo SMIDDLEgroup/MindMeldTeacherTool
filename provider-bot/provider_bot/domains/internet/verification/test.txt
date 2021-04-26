@@ -1,0 +1,21 @@
+{99092179|sys_number|service_number} це номер мого договору
+Мій номер договору такий {99359179|sys_number|service_number}
+У мене такий номер договору {99322179|sys_number|service_number}
+Оце мій договір {99322179|sys_number|service_number}
+Я живу в будинку {71|sys_number|house_number} 
+Будинок номер {90|sys_number|house_number}
+{307|sys_number|house_number} це мій номер будинку
+{13|sys_number|house_number} це номер мого будинку
+Будинок під номером {18|sys_number|house_number}
+Маю такий номер договору {98022179|sys_number|service_number}
+Ось номер {57881511|sys_number|service_number}
+Проживаю в {3|sys_number|house_number} будинку
+Номер мого договору {40883831|sys_number|service_number}
+Дом {98|sys_number|house_number}
+В будинку {141|sys_number|house_number}
+Слухайте номер договору {37759492|sys_number|service_number}
+У мене договор номер {36559892|sys_number|service_number}
+У мене наступний номер договору {37752492|sys_number|service_number}
+{201|sys_number|house_number} це мій будинок
+Мій будинок {74|sys_number|house_number}
+{99322151|sys_number|service_number} такий договір

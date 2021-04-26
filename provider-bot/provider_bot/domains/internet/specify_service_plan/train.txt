@@ -1,0 +1,38 @@
+На {Смідл Спорт Аш Ді Про плюс 100|service_plan}
+на {Смідл Спорт Аш Ді Про 100|service_plan}
+На {Смідл Спорт Ейч Ді Про плюс 100|service_plan}
+на {Смідл Спорт Ейч Ді Про 100|service_plan}
+На {Смідл Спорт HD Про плюс 100|service_plan}
+на {Смідл Спорт HD Про 100|service_plan}
+На {Смідл Смарт Аш Ді плюс 100|service_plan}
+на {Смідл Смарт Аш Ді 100|service_plan}
+На {Смідл Смарт Ейч Ді плюс 100|service_plan}
+на {Смідл Смарт Ейч Ді 100|service_plan}
+На {Смідл Смарт HD плюс 100|service_plan}
+на {Смідл Смарт HD 100|service_plan}
+На {Смідл Пауер Тайм Про 200|service_plan}
+на {Смідл Пауер Тайм Про|service_plan}
+На {Смідл Павер Тайм Про 200|service_plan}
+на {Преміум Аш Ді|service_plan}
+На {Преміум Ейч Ді|service_plan}
+на {Преміум HD|service_plan}
+На {Premium HD|service_plan}
+{Смідл Спорт Аш Ді Про плюс 100|service_plan}
+{Смідл Спорт Аш Ді Про 100|service_plan}
+{Смідл Спорт Ейч Ді Про плюс 100|service_plan}
+{Смідл Спорт Ейч Ді Про 100|service_plan}
+{Смідл Спорт HD Про плюс 100|service_plan}
+{Смідл Спорт HD Про 100|service_plan}
+{Смідл Смарт Аш Ді плюс 100|service_plan}
+{Смідл Смарт Аш Ді 100|service_plan}
+{Смідл Смарт Ейч Ді плюс 100|service_plan}
+{Смідл Смарт Ейч Ді 100|service_plan}
+{Смідл Смарт HD плюс 100|service_plan}
+{Смідл Смарт HD 100|service_plan}
+{Смідл Пауер Тайм Про 200|service_plan}
+{Смідл Пауер Тайм Про|service_plan}
+{Смідл Павер Тайм Про 200|service_plan}
+{Преміум Аш Ді|service_plan}
+{Преміум Ейч Ді|service_plan}
+{Преміум HD|service_plan}
+{Premium HD|service_plan}

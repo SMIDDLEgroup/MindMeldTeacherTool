@@ -1,0 +1,35 @@
+Count of users: 2
+Average messages count: 20.0
+
+Intents
+[verification]: 32.5%
+[abort]: 12.5%
+[repeat]: 10.0%
+[check_balance]: 7.5%
+[specify_day]: 7.5%
+[home_service]: 7.5%
+[greet]: 5.0%
+[confirmation]: 5.0%
+[specify_hour]: 2.5%
+[thanks]: 2.5%
+[goodbye]: 2.5%
+[suicide]: 2.5%
+[stop_service]: 2.5%
+
+States
+verify_service_number: 37.5%
+check_balance: 10.0%
+home_service: 10.0%
+home_service_day_choice: 10.0%
+welcome: 5.0%
+verify_house_number: 5.0%
+default: 5.0%
+abort: 5.0%
+home_service_hour_choice: 2.5%
+thanks: 2.5%
+goodbye: 2.5%
+suicide: 2.5%
+stop_service: 2.5%
+
+Operator calls: 2
+Not recognized: 1

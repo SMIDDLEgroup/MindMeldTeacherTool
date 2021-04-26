@@ -1,0 +1,10 @@
+На {Павер Тайм|service_plan}
+На {Пауер тайм двісті|service_plan}
+на {Воля Спорт Аш Де|service_plan}
+{Воля Преміум|service_plan}
+{Воля Смарт плюс|service_plan}
+{Воля Спорт|service_plan}
+на {Спорт Плюс|service_plan}
+На {Воля Смарт сто|service_plan}
+на {Спорт Ейч Де|service_plan}
+{Спорт Аш Де Плюс|service_plan}

@@ -1,0 +1,72 @@
+на {завтра|sys_time|day}
+на {сьогодні|sys_time|day}
+на {післязавтра|sys_time|day}
+на {вчора|sys_time|day}
+на {позавчора|sys_time|day}
+на {понеділок|sys_time|day}
+на {вівторок|sys_time|day}
+на {середу|sys_time|day}
+на {четвер|sys_time|day}
+на {п'ятницю|sys_time|day}
+на {суботу|sys_time|day}
+на {неділю|sys_time|day}
+на {8 березня|sys_time|day}
+на {1 травня|sys_time|day}
+на {6 квітня|sys_time|day}
+на {17 лютого|sys_time|day}
+на {10 січня|sys_time|day}
+на {20 червня|sys_time|day}
+на {21 липня|sys_time|day}
+на {30 серпня|sys_time|day}
+на {3 вересня|sys_time|day}
+на {14 жовтня|sys_time|day}
+на {17 листопада|sys_time|day}
+на {19 грудня|sys_time|day}
+у {завтра|sys_time|day}
+{Сьогодні|sys_time|day}
+{Післязавтра|sys_time|day}
+{учора|sys_time|day}
+у {позавчора|sys_time|day}
+у {понеділок|sys_time|day}
+у {вівторок|sys_time|day}
+у {середу|sys_time|day}
+у {четвер|sys_time|day}
+у {п'ятницю|sys_time|day}
+у {суботу|sys_time|day}
+у {неділю|sys_time|day}
+у {8 березня|sys_time|day}
+у {1 травня|sys_time|day}
+у {6 квітня|sys_time|day}
+у {17 лютого|sys_time|day}
+у {10 січня|sys_time|day}
+у {20 червня|sys_time|day}
+у {21 липня|sys_time|day}
+у {30 серпня|sys_time|day}
+у {3 вересня|sys_time|day}
+у {14 жовтня|sys_time|day}
+у {17 листопада|sys_time|day}
+у {19 грудня|sys_time|day}
+{завтра|sys_time|day}
+{сьогодні|sys_time|day}
+{післязавтра|sys_time|day}
+{вчора|sys_time|day}
+{позавчора|sys_time|day}
+{понеділок|sys_time|day}
+{вівторок|sys_time|day}
+{середа|sys_time|day}
+{четвер|sys_time|day}
+{п'ятниця|sys_time|day}
+{субота|sys_time|day}
+{неділя|sys_time|day}
+{8 березня|sys_time|day}
+{1 травня|sys_time|day}
+{6 квітня|sys_time|day}
+{17 лютого|sys_time|day}
+{10 січня|sys_time|day}
+{20 червня|sys_time|day}
+{21 липня|sys_time|day}
+{30 серпня|sys_time|day}
+{3 вересня|sys_time|day}
+{14 жовтня|sys_time|day}
+{17 листопада|sys_time|day}
+{19 грудня|sys_time|day}
