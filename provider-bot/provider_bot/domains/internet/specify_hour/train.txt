@@ -1,0 +1,102 @@
+На {1:00|sys_time|hour}
+На {2:00|sys_time|hour}
+На {3:30|sys_time|hour}
+На {2:40|sys_time|hour}
+На {24:00|sys_time|hour}
+На {6:00|sys_time|hour}
+На {10:45|sys_time|hour} ранку
+На {9:00|sys_time|hour} ранку
+На {15:55|sys_time|hour}
+На {6:45|sys_time|hour}
+На {5:55|sys_time|hour}
+На {17:15|sys_time|hour}
+На {22:00|sys_time|hour}
+На {9:00|sys_time|hour}
+На {8:00|sys_time|hour}
+На {11:12|sys_time|hour}
+На {13:05|sys_time|hour}
+На {19:20|sys_time|hour}
+{12:00|sys_time|hour}
+{13:40|sys_time|hour}
+{20:40|sys_time|hour}
+{11:10|sys_time|hour}
+{8:59|sys_time|hour}
+{23:50|sys_time|hour}
+{1:03|sys_time|hour}
+{11:44|sys_time|hour}
+{4:20|sys_time|hour}
+{4:30|sys_time|hour}
+{4:40|sys_time|hour}
+{6:54|sys_time|hour}
+{13:19|sys_time|hour}
+{14:40|sys_time|hour}
+{15:20|sys_time|hour}
+{19:40|sys_time|hour}
+{19:45|sys_time|hour}
+{19:46|sys_time|hour}
+{10:22|sys_time|hour}
+{6:40|sys_time|hour}
+{10:10|sys_time|hour}
+{14:20|sys_time|hour}
+О {12:00|sys_time|hour}
+О {13:40|sys_time|hour}
+О {20:40|sys_time|hour}
+О {11:10|sys_time|hour}
+О {8:59|sys_time|hour}
+О {23:50|sys_time|hour}
+О {1:03|sys_time|hour}
+О {11:44|sys_time|hour}
+О {4:20|sys_time|hour}
+О {4:30|sys_time|hour}
+О {4:40|sys_time|hour}
+О {6:54|sys_time|hour}
+О {13:19|sys_time|hour}
+О {14:40|sys_time|hour}
+О {15:20|sys_time|hour}
+О {19:40|sys_time|hour}
+О {19:45|sys_time|hour}
+О {19:46|sys_time|hour}
+О {10:22|sys_time|hour}
+О {6:40|sys_time|hour}
+О {10:10|sys_time|hour}
+О {14:20|sys_time|hour}
+о {12:00|sys_time|hour}
+о {13:40|sys_time|hour}
+о {20:40|sys_time|hour}
+о {11:10|sys_time|hour}
+о {8:59|sys_time|hour}
+о {23:50|sys_time|hour}
+о {1:03|sys_time|hour}
+о {11:44|sys_time|hour}
+о {4:20|sys_time|hour}
+о {4:30|sys_time|hour}
+о {4:40|sys_time|hour}
+о {6:54|sys_time|hour}
+о {13:19|sys_time|hour}
+о {14:40|sys_time|hour}
+о {15:20|sys_time|hour}
+о {19:40|sys_time|hour}
+о {19:45|sys_time|hour}
+о {19:46|sys_time|hour}
+о {10:22|sys_time|hour}
+о {6:40|sys_time|hour}
+о {10:10|sys_time|hour}
+о {14:20|sys_time|hour}
+на {1:00|sys_time|hour}
+на {2:00|sys_time|hour}
+на {3:30|sys_time|hour}
+на {2:40|sys_time|hour}
+на {24:00|sys_time|hour}
+на {6:00|sys_time|hour}
+на {10:45|sys_time|hour} ранку
+на {9:00|sys_time|hour} ранку
+на {15:55|sys_time|hour}
+на {6:45|sys_time|hour}
+на {5:55|sys_time|hour}
+на {17:15|sys_time|hour}
+на {22:00|sys_time|hour}
+на {9:00|sys_time|hour}
+на {8:00|sys_time|hour}
+на {11:12|sys_time|hour}
+на {13:05|sys_time|hour}
+на {19:20|sys_time|hour}

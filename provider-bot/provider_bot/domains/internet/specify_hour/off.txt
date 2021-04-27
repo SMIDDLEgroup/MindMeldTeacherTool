@@ -1,0 +1,11 @@
+на {17:45|sys_time|hour}
+на {00:05|sys_time|hour}
+на {13:25|sys_time|hour}
+о {17:40|sys_time|hour}
+о {18:30|sys_time|hour}
+На {09:15|sys_time|hour}
+На {10:40|sys_time|hour} ранку
+{13:00|sys_time|hour} дня
+{21:50|sys_time|hour}
+О {22:10|sys_time|hour} вечора
+О {20:55|sys_time|hour}
