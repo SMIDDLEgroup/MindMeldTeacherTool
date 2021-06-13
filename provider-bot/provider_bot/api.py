@@ -33,6 +33,6 @@ def endpoint():
 
     return jsonify({"intent": history[0]['request']['intent'],
                     "entity1": simplify_entity(e1),
-                    "entity2": simplify_entity(e2)})
+                    "entity2": "test"})
 
 api.run(host= '0.0.0.0',debug=True)
